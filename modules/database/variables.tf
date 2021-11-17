@@ -1,0 +1,9 @@
+variable "suffix" {}
+variable "region" {}
+variable "database_version" {}
+variable "availability_type" {}
+variable "machine_type" {}
+variable "disk_size" {}
+variable "network_id" {}
+variable "project_id" {}
+variable "environment" {}

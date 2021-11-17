@@ -1,0 +1,11 @@
+variable "bootstrap_project" {}
+variable "environment" {}
+variable "parent_folder" {}
+variable "billing_account" {}
+variable "region" {}
+variable "location" {}
+variable "database_availability_type" {}
+variable "database_version" {}
+variable "database_disk_size" {}
+variable "database_machine_type" {}
+variable "redis_size" {}
